@@ -1,5 +1,7 @@
 import './animargaleria'
 import './galeria'
+import './slider'
+import './ventanacorreo'
 import animartexto from "./animartexto";
 
 
